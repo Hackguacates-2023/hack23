@@ -13,6 +13,9 @@ href{
     height: 70px;
     background: #ffffff;
     padding: 3.5px;
+    position: fixed;
+    top:0;
+
 }
 .pagebutton{
     width: 110px;
