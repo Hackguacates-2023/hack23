@@ -118,13 +118,14 @@ href{
 .bannerbott{
     width: 99.5%;
     height: 50px;
-    background: #ac9275;
+    background: white;
     padding: 3.5px;
     float: left;
-    margin-top: 5px;
+    margin-top: 20px;
     text-align: center;
     font-size: 40px;
     float: bottom;
+    bottom:0px;
 }
 .enc{
     text-align: center;
